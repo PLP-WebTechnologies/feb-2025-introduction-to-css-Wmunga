@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin:15px,20px,10px,25px;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: black;
+ }
+
+ .highlight {
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+ }
+
+ #unique {
+    border: 5px groove blue;
+    padding: 10px 10px 10px 10px;
+}
